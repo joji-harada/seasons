@@ -1,4 +1,4 @@
-## Seasons application
+## Season Display Application
 
 ![season display app](https://media.giphy.com/media/jowyxeuwOKxWYVsBBW/giphy.gif)
 

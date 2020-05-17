@@ -2,7 +2,7 @@
 
 ![season display app](https://media.giphy.com/media/jowyxeuwOKxWYVsBBW/giphy.gif)
 
-- Covering fundamental state management
+- Fetch user location with geolocation API
 - UI loading component while fetching user latitude
 - Compartmentalized functionality with custom and built-in functions such as componentDidMount(), renderContent(), seasonConfig(), etc.
 - Ternary expressions to handle most logic

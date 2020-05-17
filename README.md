@@ -2,6 +2,8 @@
 
 ![season display app](https://media.giphy.com/media/jowyxeuwOKxWYVsBBW/giphy.gif)
 
+### Application Specs:
+
 - Fetch user location with geolocation API
 - UI loading component while fetching user latitude
 - Once data has been loaded the application displays graphics and message based on user location.
